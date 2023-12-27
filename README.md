@@ -13,3 +13,7 @@
 * [Getting Started In Spring Development](https://www.linkedin.com/learning/paths/getting-started-in-spring-development)
 * [Building Your Java Skills](https://www.linkedin.com/learning/paths/building-your-java-skills)
 * [Advance Your Java Skills](https://www.linkedin.com/learning/paths/advance-your-java-skills)
+
+## Spring Boot
+
+* [Spring Boot Roadmap](https://youtu.be/cehTm_oSrqA)
